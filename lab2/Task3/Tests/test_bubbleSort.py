@@ -1,6 +1,6 @@
 import unittest
 import random
-# from lab1.Task6.src.Task6 import bubbleSort
+
 def bubbleSort(array):
     if len(array) <= 1:
         return
